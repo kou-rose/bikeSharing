@@ -1,7 +1,7 @@
 # CitiBike Tableau Challenge
 
 ## Overview
-This is an analysis looking at CitiBike usage in New York City for the month of August. By breaking down the usage in a big city like New York, we are aiming to see what it can tell us about potentially running a similar service in Des Moines. The purpose of the analysis is to demonstrate we understand the task we are undertaking, and we understand what components to apply and what steps to take when moving forward with our own business.
+This is an analysis looking at CitiBike usage in New York City for the month of August. By breaking down the usage in a big city like New York, we are aiming to see what it can tell us about starting up a similar service in Des Moines, Iowa. The purpose of the analysis is to demonstrate to potential investors we understand the task we are undertaking, and we understand what components to apply and what steps to take when moving forward with our own business.
 
 [link to dashboard](https://public.tableau.com/app/profile/rose8042/viz/citibike_challenge_16627864254690/BikeUsage?publish=yes)
 
